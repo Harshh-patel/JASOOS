@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JASOOS-NEWS-APP/static/css/main.073c9b0a.css",
-    "main.js": "/JASOOS-NEWS-APP/static/js/main.ebcc0f71.js",
-    "static/js/787.4c026eef.chunk.js": "/JASOOS-NEWS-APP/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/JASOOS-NEWS-APP/static/media/loading.3c4ea553165382909193.gif",
-    "index.html": "/JASOOS-NEWS-APP/index.html",
-    "main.073c9b0a.css.map": "/JASOOS-NEWS-APP/static/css/main.073c9b0a.css.map",
-    "main.ebcc0f71.js.map": "/JASOOS-NEWS-APP/static/js/main.ebcc0f71.js.map",
-    "787.4c026eef.chunk.js.map": "/JASOOS-NEWS-APP/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/newsapp/static/css/main.073c9b0a.css",
+    "main.js": "/newsapp/static/js/main.2f1d1a2d.js",
+    "static/js/787.4c026eef.chunk.js": "/newsapp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/newsapp/static/media/loading.3c4ea553165382909193.gif",
+    "index.html": "/newsapp/index.html",
+    "main.073c9b0a.css.map": "/newsapp/static/css/main.073c9b0a.css.map",
+    "main.2f1d1a2d.js.map": "/newsapp/static/js/main.2f1d1a2d.js.map",
+    "787.4c026eef.chunk.js.map": "/newsapp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ebcc0f71.js"
+    "static/js/main.2f1d1a2d.js"
   ]
 }
