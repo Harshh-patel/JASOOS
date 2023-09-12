@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/newsapp/static/css/main.073c9b0a.css",
-    "main.js": "/newsapp/static/js/main.2ea5e183.js",
-    "static/js/787.4c026eef.chunk.js": "/newsapp/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/newsapp/static/media/loading.3c4ea553165382909193.gif",
-    "index.html": "/newsapp/index.html",
-    "main.073c9b0a.css.map": "/newsapp/static/css/main.073c9b0a.css.map",
-    "main.2ea5e183.js.map": "/newsapp/static/js/main.2ea5e183.js.map",
-    "787.4c026eef.chunk.js.map": "/newsapp/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/JASOOS/static/css/main.073c9b0a.css",
+    "main.js": "/JASOOS/static/js/main.baa72e3c.js",
+    "static/js/787.4c026eef.chunk.js": "/JASOOS/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/JASOOS/static/media/loading.3c4ea553165382909193.gif",
+    "index.html": "/JASOOS/index.html",
+    "main.073c9b0a.css.map": "/JASOOS/static/css/main.073c9b0a.css.map",
+    "main.baa72e3c.js.map": "/JASOOS/static/js/main.baa72e3c.js.map",
+    "787.4c026eef.chunk.js.map": "/JASOOS/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2ea5e183.js"
+    "static/js/main.baa72e3c.js"
   ]
 }
