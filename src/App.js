@@ -27,7 +27,7 @@ const App =()=> {
           <NavBar />
           <Routes>
             <Route
-              path='/'
+              path='/JASOOS'
               element={
                 <News
                   setProgress={setProgress}
