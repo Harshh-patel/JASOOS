@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/JASOOS/static/css/main.073c9b0a.css",
-    "main.js": "/JASOOS/static/js/main.baa72e3c.js",
+    "main.js": "/JASOOS/static/js/main.35464758.js",
     "static/js/787.4c026eef.chunk.js": "/JASOOS/static/js/787.4c026eef.chunk.js",
     "static/media/loading.gif": "/JASOOS/static/media/loading.3c4ea553165382909193.gif",
     "index.html": "/JASOOS/index.html",
     "main.073c9b0a.css.map": "/JASOOS/static/css/main.073c9b0a.css.map",
-    "main.baa72e3c.js.map": "/JASOOS/static/js/main.baa72e3c.js.map",
+    "main.35464758.js.map": "/JASOOS/static/js/main.35464758.js.map",
     "787.4c026eef.chunk.js.map": "/JASOOS/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.baa72e3c.js"
+    "static/js/main.35464758.js"
   ]
 }
